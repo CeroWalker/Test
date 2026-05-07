@@ -1,16 +1,1 @@
-# Şifre Üretici
-
-Bu proje rastgele güvenli şifre üretir.
-
-## Özellikler
-- Rastgele şifre üretme
-- Güçlü şifre desteği
-- Kolay kullanım
-
-## Çalıştırma
-
-```bash
-python main.py
-# Şifre Üretici
-
-Bu proje rastgele şifre üretir.
+HISHFKSHHHFKJEVKDVHEJKBVJHDBVJHBDFJBVFDGVJDFVJDFKJVDJKVBDFBVNDBJVBJDBVBDFMNVBDBVBDFBVDBVJHFV.PUHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA.DHGHFGÖJSDBGKJSEJKGVBGJHSBJHBFBJBFVJHFBJ.HAY ALLAH SEN ÇOK YAŞA.
