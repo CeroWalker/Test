@@ -11,3 +11,6 @@ Bu proje rastgele güvenli şifre üretir.
 
 ```bash
 python main.py
+# Şifre Üretici
+
+Bu proje rastgele şifre üretir.
